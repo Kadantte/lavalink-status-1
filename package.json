@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "lavalink live status in your discord server",
   "main": "index.js",
-   "scripts": {
+   "scripts": 
     "start": "node index.js"
   "repository": {
     "type": "git",
