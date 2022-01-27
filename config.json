@@ -1,15 +1,50 @@
 {
 
   "token": "",
-	"channel": "936324736311496734",
+	"channel": "921087727204724806",
   "nodes": [
   {
-      "host": "129.159.198.211",
-      "password": "ubuntuserver",
-      "port": 2333,
+      "host": "disbotlistlavalink.ml",
+      "password": "LAVA",
+      "port": 443,
       "retryDelay": 3000,
       "identifier": "lavalink 1",
-      "secure": false
+      "secure": true
     },
+    {
+      "host": "giveawaybot.cf",
+      "password": "Blacky#6618",
+      "port": 443,
+      "retryDelay": 3000,
+      "identifier": "lavalink 2",
+      "secure": true
+    },
+    {
+      "host": "lavalink.gangasagarcom.repl.co",
+      "password": "LAVA",
+      "port": 443,
+      "retryDelay": 3000,
+      "identifier": "lavalink 3",
+      "secure": true
+
+    },
+    {
+      "host": "lavalink-2.gangasagarcom.repl.co",
+      "password": "LAVA",
+      "port": 443,
+      "retryDelay": 3000,
+      "identifier": "lavalink 4",
+      "secure": true
+
+     },
+    {
+      "host": "lavalink.brblacky1.repl.co",
+      "password": "LAVA",
+      "port": 443,
+      "retryDelay": 3000,
+      "identifier": "lavalink 5",
+      "secure": true
+    }
+
   ]
 }
