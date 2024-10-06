@@ -1,0 +1,21 @@
+{
+  "name": "lavalink-list",
+  "version": "1.0.0",
+  "description": "A list of free and available public Lavalink nodes with their live status. Feel free to make a pull request!",
+  "main": "update_nodes.ts",
+  "scripts": {
+    "start": "npx ts-node update_nodes.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@libsql/client": "^0.8.1",
+    "dotenv": "^16.4.5",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "typescript": "^5.5.4"
+  }
+}
